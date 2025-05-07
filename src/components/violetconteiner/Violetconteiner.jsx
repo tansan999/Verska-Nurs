@@ -1,9 +1,9 @@
 import React from "react";
 import Button from "../../UI/button/Button";
-import Input from "../../UI/input/input";
 import InputTitle from "../../UI/input/InputTitle";
 import InputDate from "../../UI/input/InputDate";
 import styled from "styled-components";
+import Input from "../../UI/input/Input";
 
 const ConteinerViolet = styled.div`
   width: 780px;

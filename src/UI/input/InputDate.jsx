@@ -2,11 +2,9 @@ import React from "react";
 import styled from "styled-components";
 
 const Divdate = styled.div`
-  /* Group 2133 */
  width: 340px;
   height: 64px;
 
-  /* border: 3px solid red; */
   display: flex;
   flex-direction: column;
 
