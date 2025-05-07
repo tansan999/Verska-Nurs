@@ -1,7 +1,7 @@
 import React from "react";
-import Violetconteiner from "./components/violetconteiner/Violetconteiner";
 import styled from "styled-components";
 import ResultCard from "./components/resultConteiner/ResultCard";
+import Violetconteiner from "./components/violetconteiner/Violetconteiner";
 
 const Div_ = styled.div`
   margin-top: 30px;

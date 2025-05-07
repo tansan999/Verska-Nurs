@@ -6,14 +6,10 @@ import InputDate from "../../UI/input/InputDate";
 import styled from "styled-components";
 
 const ConteinerViolet = styled.div`
-  /* Rectangle 1 */
   width: 780px;
   height: 287px;
   border-radius: 12px;
-
-  /* light purple */
   background: rgb(173, 155, 233);
-
   padding: 24px 40px 36px 40px;
   display: flex;
   flex-direction: column;
@@ -29,15 +25,6 @@ const ConteinerVioletButton = styled.div`
   display: flex;
   gap: 14px;
 `;
-
-const aa = () => {
-  const massiv = [
-    { title: "dcs", id: 1 },
-    { title: "dcs", id: 2 },
-    { title: "dcs", id: 3 },
-    { title: "dcs", id: 4 },
-  ];
-};
 
 function Violetconteiner() {
   return (
