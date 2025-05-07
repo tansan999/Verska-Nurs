@@ -19,7 +19,6 @@ const Divdate = styled.div`
     letter-spacing: 0%;
     text-align: left;
   }
-
   input {
     width: 340px;
     height: 39px;
